@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.1.7.RELEASE</version>
+		<version>2.1.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.infy.poc</groupId>
-	<artifactId>Infy_WAL</artifactId>
+	<groupId>INFY_WAL</groupId>
+	<artifactId>INFY_WAL</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Infy_WAL</name>
+	<name>INFY_WAL</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
